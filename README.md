@@ -1,2 +1,2 @@
 # DDA
-Aretefacts and Standards from the Digital Design Authority
+Artifacts and Standards ratified by the Digital Design Authority.
