@@ -1,4 +1,4 @@
-<img src="/images/DDAIdent.svg" style="width:200px;">
+<img src="/images/DDAIdent.svg">
 
 # Standards
 All NSS digital output will be developed in line with the following principles.
