@@ -32,7 +32,7 @@ Evaluate the information asset you hold and apply the best security principles t
 ### Data Protection
 Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate).
 
-[PPT Fprmat](/files/2017-11_DDA standard Data Protection rebrand.pptx)
+[PPT Fprmat](/files/2017-11_DDA%20standard%20Data%20Protection%20rebrand.pptx)
 
 ### Confidentiality
 Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable
