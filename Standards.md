@@ -19,7 +19,7 @@ NSS Identity Management will provide a secure, efficient Digital Identity to NSS
 
 ### Cloud
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
-[Powerpoint Format](Publications/CloudStandardsList_V1.0.pdf)
+[Adobe Acrobat Format](Publications/CloudStandardsList_V1.0.pdf)
 
 ### Web
 Use open standards and common government platforms where available.
@@ -41,20 +41,22 @@ Evaluate the confidential nature of the data, considering patient confidentialit
 
 ### Equality and Diversity
 Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
-[Powerpoint Format](/Publications/2017-11_DDA%20standard%20ED%20(2)%20Rebrand.pptx)
+[Equality and Diversity Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20ED%20(2)%20Rebrand.pptx)
 
 ## Customer
 ### Brand
 Build a service consistent with the user experience of the rest of NSS including using the design patterns and style guide.
-[Powerpoint Format](/Publications/2017-12-07%20DDA%20Brand%20Standards%20v%202-1.pptx)
+[Brand Standard - Powerpoint Format](/Publications/2017-12-07%20DDA%20Brand%20Standards%20v%202-1.pptx)
 
 ### User Experience
 Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for the design of the service.
+[Brand Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20UX%20Standards%20v%201.0%20rebrand.pptx)
 
 ### Accessibility
 Create a service that is usable, accessible and intuitive enough that users succeed first time.
+[Accessibility Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20Accessibility%20Standards%20v%201.1%20rebrand.pptx?raw=true)
 
 ### Content
 Uniformity in content style across NSS websites helps visitors to better understand and interact with information on the site.
-
+[Content Standard - Powerpoint Format](/Publications/Publications/2018-01-11%20DDA%20Content%20Standards%20v2.pptx?raw=true)
 
