@@ -35,10 +35,12 @@ Evaluate what user data and information the service will be providing or storing
 [Powerpoint Format](https://github.com/gvent/DDA/blob/master/Publications/2017-11_DDA%20standard%20Data%20Protection%20rebrand.pptx)
 
 ### Confidentiality
-Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable
+Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable.
+[Powerpoint Format](/DDA/blob/master/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
 
 ### Equality and Diversity
 Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
+[Powerpoint Format](https://github.com/gvent/DDA/blob/master/Publications/2017-11_DDA%20standard%20Data%20Protection%20rebrand.pptx)
 
 ## Customer
 ### Brand
