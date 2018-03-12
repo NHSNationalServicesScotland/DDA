@@ -36,7 +36,7 @@ Evaluate what user data and information the service will be providing or storing
 
 ### Confidentiality
 Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable.
-[Powerpoint Format](/DDA/blob/master/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
+[Powerpoint Format](/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
 
 ### Equality and Diversity
 Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
