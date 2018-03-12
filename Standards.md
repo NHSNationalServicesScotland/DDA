@@ -2,6 +2,7 @@
 
 # Standards
 All NSS digital output will be developed in line with the following principles.
+[This document in powerpoint format](/Publications/NSS%20DDA%20Standards%20overview%20v4.pptx)
 
 ## Data
 ### Data Management
