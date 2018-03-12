@@ -19,7 +19,7 @@ NSS Identity Management will provide a secure, efficient Digital Identity to NSS
 ### Cloud
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
 
-[Cloud Standard - Adobe Acrobat Format](/Publications/Digital%20Design%20Authority_Cloud%20Standard 0.1.pptx?raw=true)
+[Cloud Standard - Adobe Acrobat Format](/Publications/Digital%20Design%20Authority_Cloud%20Standard%200.1.pptx?raw=true)
 
 [Cloud Standards List - Adobe Acrobat Format](/Publications/CloudStandardsList_V1.0.pdf)
 
