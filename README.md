@@ -1,2 +1,2 @@
 # DDA
-Artifacts and Standards ratified by the Digital Design Authority.
+[Artifacts and Standards](/Standards.md) ratified by the Digital Design Authority.
