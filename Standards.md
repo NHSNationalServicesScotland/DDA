@@ -5,9 +5,7 @@ All NSS digital output will be developed in line with the following principles.
 
 ## Data
 ### Data Management
-The production, management and dissemination of official statistics should meet
-the requirements of informed decision-making by government, public services,
-business, researchers and the public.
+The production, management and dissemination of official statistics should meet the requirements of informed decision-making by government, public services, business, researchers and the public.
 
 ### Open Data Standards
 Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
@@ -15,11 +13,13 @@ Make all non-personal, non-commercially sensitive data from the service availabl
 ## IT
 ### Identity
 NSS Identity Management will provide a secure, efficient Digital Identity to NSS staff which will enable access to NSS Digital Services. It will follow recognised international standards such as OAuth, SAML and OpenID.
-[Powerpoint Format](/Publications/Identity%20Standard%200.1%20Rebrand.pptx)
+[Identity Standard - Powerpoint Format](/Publications/Identity%20Standard%200.1%20Rebrand.pptx)
 
 ### Cloud
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
-[Adobe Acrobat Format](Publications/CloudStandardsList_V1.0.pdf)
+[Cloud Standard - Adobe Acrobat Format](/Publications/Digital%20Design%20Authority_Cloud%20Standard 0.1.pptx)
+[Cloud Standards List - Adobe Acrobat Format](/Publications/CloudStandardsList_V1.0.pdf)
+[Azure Governance - Powerpoint Acrobat Format](/Publications/NSS%20Azure%20Governance%20v02.docx)
 
 ### Web
 Use open standards and common government platforms where available.
