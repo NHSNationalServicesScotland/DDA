@@ -27,17 +27,19 @@ Use open standards and common government platforms where available.
 ## Information Governance
 ### Privacy
 Evaluate the privacy risks and consent principles to make sure that personal data collection requirements are appropriate, proportional and all data use is with appropriate consent.
+[Privacy - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Privacy%20Rebrand.pptx)
 
 ### Information Security
 Evaluate the information asset you hold and apply the best security principles to that asset to ensure that data is held safely and securely but is also accessible to those with consent to use it.
+[Information Security - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Information%20Security%20rebrand.pptx)
 
 ### Data Protection
 Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate).
-[Powerpoint Format](/Publications/2017-11_DDA%20standard%20Data%20Protection%20rebrand.pptx)
+[Data Protection - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Data%20Protection%20rebrand.pptx)
 
 ### Confidentiality
 Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable.
-[Powerpoint Format](/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
+[Confidentiality Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
 
 ### Equality and Diversity
 Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
