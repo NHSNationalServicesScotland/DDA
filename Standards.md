@@ -50,7 +50,7 @@ Build a service consistent with the user experience of the rest of NSS including
 
 ### User Experience
 Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for the design of the service.
-[Brand Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20UX%20Standards%20v%201.0%20rebrand.pptx)
+[User Experience (UX) Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20UX%20Standards%20v%201.0%20rebrand.pptx?raw=true)
 
 ### Accessibility
 Create a service that is usable, accessible and intuitive enough that users succeed first time.
@@ -58,5 +58,5 @@ Create a service that is usable, accessible and intuitive enough that users succ
 
 ### Content
 Uniformity in content style across NSS websites helps visitors to better understand and interact with information on the site.
-[Content Standard - Powerpoint Format](/Publications/Publications/2018-01-11%20DDA%20Content%20Standards%20v2.pptx?raw=true)
+[Content Standard - Powerpoint Format](/Publications/2018-01-11%20DDA%20Content%20Standards%20v2.pptx?raw=true)
 
