@@ -48,12 +48,12 @@ Evaluate what user data and information the service will be providing or storing
 
 ### Confidentiality
 Evaluate the confidential nature of the data, considering patient confidentiality and commercial confidentiality, and ensure that the necessary risk and security level is applied together with due process followed for use of data, if applicable.  
-[Confidentiality Standard - Adobe Acrobat Format](/Publications/ConfidentialityStandard.pdf) 
+[Confidentiality Standard - Adobe Acrobat Format](/Publications/ConfidentialityStandard.pdf)  
 [Confidentiality Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
 
 ### Equality and Diversity
 Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
-[Equality and Diversity Standard - Adobe Acrobat Format](/Publications/DDAEqualityAndDiversityStandard.pdf) 
+[Equality and Diversity Standard - Adobe Acrobat Format](/Publications/DDAEqualityAndDiversityStandard.pdf)  
 [Equality and Diversity Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20ED%20(2)%20Rebrand.pptx)
 
 ## Customer
@@ -74,6 +74,6 @@ Create a service that is usable, accessible and intuitive enough that users succ
 
 ### Content
 Uniformity in content style across NSS websites helps visitors to better understand and interact with information on the site.  
-[Content Standard - Adobe Acrobat Format](/Publications/DDAContentStandard.pdf) 
+[Content Standard - Adobe Acrobat Format](/Publications/DDAContentStandard.pdf)  
 [Content Standard - Powerpoint Format](/Publications/2018-01-11%20DDA%20Content%20Standards%20v2.pptx?raw=true)
 
