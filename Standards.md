@@ -15,7 +15,7 @@ Make all non-personal, non-commercially sensitive data from the service availabl
 ### Identity
 NSS Identity Management will provide a secure, efficient Digital Identity to NSS staff which will enable access to NSS Digital Services. It will follow recognised international standards such as OAuth, SAML and OpenID.
 
-[Adobe Acrobat (PDF) Format] (/Publications/DDAIdentityStandard.pdf)  
+[Adobe Acrobat (PDF) Format](/Publications/DDAIdentityStandard.pdf)  
 [Powerpoint Format](/Publications/Identity%20Standard%200.1%20Rebrand.pptx)
 
 ### Cloud
