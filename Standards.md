@@ -52,7 +52,7 @@ Evaluate the confidential nature of the data, considering patient confidentialit
 [Confidentiality Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Confidentiality%20rebrand.pptx)
 
 ### Equality and Diversity
-Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.
+Evaluate the service and data held in line with protected characteristics and Public Sector Equality Duty to eliminate unlawful discrimination and advance equality of opportunity for all.  
 [Equality and Diversity Standard - Adobe Acrobat Format](/Publications/DDAEqualityAndDiversityStandard.pdf)  
 [Equality and Diversity Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20ED%20(2)%20Rebrand.pptx)
 
@@ -68,7 +68,7 @@ Understand user needs. Research to develop a deep knowledge of who the service u
 [User Experience (UX) Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20UX%20Standards%20v%201.0%20rebrand.pptx?raw=true)
 
 ### Accessibility
-Create a service that is usable, accessible and intuitive enough that users succeed first time.
+Create a service that is usable, accessible and intuitive enough that users succeed first time.  
 [Accessibility Standard - Adobe Acrobat Format](/Publications/DDAAccessibilityStandard.pdf)  
 [Accessibility Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20Accessibility%20Standards%20v%201.1%20rebrand.pptx?raw=true)
 
