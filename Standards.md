@@ -33,12 +33,12 @@ Use open standards and common government platforms where available.
 ## Information Governance
 ### Privacy
 Evaluate the privacy risks and consent principles to make sure that personal data collection requirements are appropriate, proportional and all data use is with appropriate consent.  
-[Privacy Standard - Adobe Acrobat Format](/Publications/DDAPrivacyStandard.pdf) 
+[Privacy Standard - Adobe Acrobat Format](/Publications/DDAPrivacyStandard.pdf)  
 [Privacy Standard - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Privacy%20Rebrand.pptx)
 
 ### Information Security
 Evaluate the information asset you hold and apply the best security principles to that asset to ensure that data is held safely and securely but is also accessible to those with consent to use it.  
-[Information Security Standard - Adobe Acrobat Format](/Publications/DDAInformationSecurityStandard.pdf) 
+[Information Security Standard - Adobe Acrobat Format](/Publications/DDAInformationSecurityStandard.pdf)  
 [Information Security - Powerpoint Format](/Publications/2017-11_DDA%20standard%20Information%20Security%20rebrand.pptx)
 
 ### Data Protection
