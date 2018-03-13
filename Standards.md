@@ -59,7 +59,7 @@ Evaluate the service and data held in line with protected characteristics and Pu
 ## Customer
 ### Brand
 Build a service consistent with the user experience of the rest of NSS including using the design patterns and style guide.  
-[Brand Standard - Adobe Acrobat Format](/Publications/DDABrandStandard.pdf) 
+[Brand Standard - Adobe Acrobat Format](/Publications/DDABrandStandard.pdf)  
 [Brand Standard - Powerpoint Format](/Publications/2017-12-07%20DDA%20Brand%20Standards%20v%202-1.pptx)
 
 ### User Experience
@@ -69,7 +69,7 @@ Understand user needs. Research to develop a deep knowledge of who the service u
 
 ### Accessibility
 Create a service that is usable, accessible and intuitive enough that users succeed first time.
-[Accessibility Standard - Adobe Acrobat Format](/Publications/DDAAccessibilityStandard.pdf) 
+[Accessibility Standard - Adobe Acrobat Format](/Publications/DDAAccessibilityStandard.pdf)  
 [Accessibility Standard - Powerpoint Format](/Publications/2017-09-11%20DDA%20Accessibility%20Standards%20v%201.1%20rebrand.pptx?raw=true)
 
 ### Content
