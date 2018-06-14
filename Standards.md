@@ -12,6 +12,7 @@ The production, management and dissemination of official statistics should meet 
 ### Clinical Coding, Classifications and Terminology
 Ensures clinical and health related data are recorded consistently and accurately, to provide meaningful analysis and comparisons.
 
+[Adobe Acrobat (PDF) Format](/Publications/DDAClinicalCodingStandard1.0.pdf) 
 [Powerpoint Format](/Publications/DDA%20Clinical%20Coding%2c%20Classifications%20&%20Terminology%201.0.pptx)
 
 ### Open Data Standards
