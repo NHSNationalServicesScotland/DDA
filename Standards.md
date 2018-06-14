@@ -8,9 +8,9 @@ All NSS digital output will be developed in line with the following principles.
 ### Data Management
 The production, management and dissemination of official statistics should meet the requirements of informed decision-making by government, public services, business, researchers and the public.
 
-[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Code%20of%20Practice%20for%20Statistics%201.0.pptx?raw=true)
+[DDA Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Code%20of%20Practice%20for%20Statistics%201.0.pptx?raw=true)
 
-[Definitions and Standards for National Statistics - Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx?raw=true)
+[DDA Definitions and Standards for National Statistics - Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx?raw=true)
 
 #### Best Practice Guides
 [DDA Statistics - Powerpoint Format](/Publications/DDA%20Statistics%201.0.pptx?raw=true)
@@ -22,6 +22,8 @@ Ensures clinical and health related data are recorded consistently and accuratel
 
 [DDA Clinical Coding, Classifications & Terminology -Adobe Acrobat (PDF) Format](/Publications/DDAClinicalCodingStandard1.0.pdf) 
 [DA Clinical Coding, Classifications & Terminology - Powerpoint Format](/Publications/DDA%20Clinical%20Coding%2c%20Classifications%20&%20Terminology%201.0.pptx)
+
+## Standards Information Sheets
 
 ### Open Data Standards
 Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
