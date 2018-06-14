@@ -8,14 +8,13 @@ All NSS digital output will be developed in line with the following principles.
 ### Data Management
 The production, management and dissemination of official statistics should meet the requirements of informed decision-making by government, public services, business, researchers and the public.
 
-Code of Practice for Statistics
-[Powerpoint Format](/Publications/DDA%20Code%20of%20Practice%20for%20Statistics%201.0.pptx)
+[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Code%20of%20Practice%20for%20Statistics%201.0.pptx?raw=true)
 
 Definitions and Standards for National Statistics
-[Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx)
+[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx?raw=true)
 
 DDA Publishing Statistics 
-[Powerpoint Format](/Publications/DDA%20Publishing%20Statistics%201.0.pptx)
+[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Publishing%20Statistics%201.0.pptx?raw=true)
 
 
 
@@ -33,8 +32,9 @@ Make all non-personal, non-commercially sensitive data from the service availabl
 ### Identity
 NSS Identity Management will provide a secure, efficient Digital Identity to NSS staff which will enable access to NSS Digital Services. It will follow recognised international standards such as OAuth, SAML and OpenID.
 
-[Adobe Acrobat (PDF) Format](/Publications/DDAIdentityStandard.pdf)  
-[Powerpoint Format](/Publications/Identity%20Standard%200.1%20Rebrand.pptx)
+[Identity Standard - Adobe Acrobat (PDF) Format](/Publications/DDAIdentityStandard.pdf)
+
+[Identity Standard - Powerpoint Format](/Publications/Identity%20Standard%200.1%20Rebrand.pptx?raw=true)
 
 ### Cloud
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
