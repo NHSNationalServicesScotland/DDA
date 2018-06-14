@@ -10,20 +10,18 @@ The production, management and dissemination of official statistics should meet 
 
 [Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Code%20of%20Practice%20for%20Statistics%201.0.pptx?raw=true)
 
-Definitions and Standards for National Statistics
-[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx?raw=true)
+[Definitions and Standards for National Statistics - Powerpoint Format](/Publications/DDA%20Definitions%20%26%20Standards%20for%20National%20Data.pptx?raw=true)
 
-DDA Publishing Statistics 
-[Code of Practice for Statistics - Powerpoint Format](/Publications/DDA%20Publishing%20Statistics%201.0.pptx?raw=true)
+#### Best Practice Guides
+[DDA Statistics - Powerpoint Format](/Publications/DDA%20Statistics%201.0.pptx?raw=true)
 
-
-
+[DDA Publishing Statistics - Powerpoint Format](/Publications/DDA%20Publishing%20Statistics%201.0.pptx?raw=true)
 
 ### Clinical Coding, Classifications and Terminology
 Ensures clinical and health related data are recorded consistently and accurately, to provide meaningful analysis and comparisons.
 
-[Adobe Acrobat (PDF) Format](/Publications/DDAClinicalCodingStandard1.0.pdf) 
-[Powerpoint Format](/Publications/DDA%20Clinical%20Coding%2c%20Classifications%20&%20Terminology%201.0.pptx)
+[DDA Clinical Coding, Classifications & Terminology -Adobe Acrobat (PDF) Format](/Publications/DDAClinicalCodingStandard1.0.pdf) 
+[DA Clinical Coding, Classifications & Terminology - Powerpoint Format](/Publications/DDA%20Clinical%20Coding%2c%20Classifications%20&%20Terminology%201.0.pptx)
 
 ### Open Data Standards
 Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
