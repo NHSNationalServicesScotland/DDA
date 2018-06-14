@@ -8,6 +8,12 @@ All NSS digital output will be developed in line with the following principles.
 ### Data Management
 The production, management and dissemination of official statistics should meet the requirements of informed decision-making by government, public services, business, researchers and the public.
 
+
+### Clinical Coding, Classifications and Terminology
+Ensures clinical and health related data are recorded consistently and accurately, to provide meaningful analysis and comparisons.
+
+[Powerpoint Format](/Publications/DDA%20Clinical%20Coding%2c%20Classifications%20&%20Terminology%201.0.pptx)
+
 ### Open Data Standards
 Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
 
